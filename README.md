@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @anandamalyamukhopadhyay
 - 👀 I’m interested in ...Coding, Video Editing, Animations
 - 🌱 I’m currently learning ... in School
+- 💞️ I’m looking to collaborate on ... Microsoft/Google
 - 📫 How to reach me ... anandamalyamukhopadhyay@gmail.com
 
 <!---
