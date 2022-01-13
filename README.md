@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @anandamalyamukhopadhyay
-- 👀 I’m interested in ...Coding, Video Editing, Animations and 
+- 👀 I’m interested in ...Coding, Video Editing, Animations
 - 🌱 I’m currently learning ... in School
 
 <!---
